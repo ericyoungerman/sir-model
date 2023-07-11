@@ -21,7 +21,7 @@ S_0 &= 999.0 \\
 I_0 &= 1.0 \\
 R_0 &= 0.0
 \end{align}
-
+```
 ### Repository Structure
 
 ```
