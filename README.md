@@ -1,6 +1,5 @@
 ## sir-model
-### introduction to github work flow
-### Repository Structure
+### About this project
 SIR model is a compartmental model, that divides the population into differenct compartments (Susceptible, Infected, and Removed), and tracks how people move between them.
 
 ```math
@@ -22,6 +21,23 @@ S_0 &= 999.0 \\
 I_0 &= 1.0 \\
 R_0 &= 0.0
 \end{align}
+
+### Repository Structure
+
+```
+.
+├── data/
+├── figs/
+├── funs/
+├── out/
+└── src/
+```
+
+- `data/` contains ...
+- `figs/` contains ...
+- `funs/` contains ...
+- `out/` contains ...
+- `src/` contains ...
 ```
 ### Built With
 
